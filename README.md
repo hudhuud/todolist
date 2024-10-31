@@ -20,7 +20,7 @@
 1. Клонируйте репозиторий:
 
    ```bash
-   git clone "https://github.com/Sudhanshu-Ambastha/Todo-List-in-ExpressJs-ReactJs-NodeJs-MongoDB-Scss"
+   https://github.com/hudhuud/todolist
    ```
 
 2. Установите зависимости:
